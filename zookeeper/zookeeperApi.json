@@ -1,0 +1,40 @@
+{
+  "name" : "cloud-payment-service" ,
+  "id" : "d149af54-bb34-4906-95c5-1404fabe8372" ,
+  "address" : "DESKTOP-P8UJREG" ,
+  "port" : 8004 ,
+  "sslPort" : null ,
+  "payload" : {
+    "@class" : "org.springframework.cloud.zookeeper.discovery.ZookeeperInstance" ,
+    "id" : "application-1" ,
+    "name" : "cloud-payment-service" ,
+    "metadata" : {
+    }
+  } ,
+  "registrationTimeUTC" : 1584186965464 ,
+  "serviceType" : "DYNAMIC" ,
+  "uriSpec" : {
+    "parts" : [
+      {
+        "value" : "scheme" ,
+        "variable" : true
+      } ,
+      {
+        "value" : "://" ,
+        "variable" : false
+      } ,
+      {
+        "value" : "address" ,
+        "variable" : true
+      } ,
+      {
+        "value" : ":" ,
+        "variable" : false
+      } ,
+      {
+        "value" : "port" ,
+        "variable" : true
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+这是使用zookeeper注册服务产生的实例信息，zookeeper使用临时节点记录实例信息
+
+使用命令可以查看到具体的实例列表
+ls /services/cloud-payment-service
+
+查看具体的实例信息
+get /services/cloud-payment-service/d149af54-bb34-4906-95c5-1404fabe8372

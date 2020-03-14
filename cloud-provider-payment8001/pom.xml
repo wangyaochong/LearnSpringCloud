@@ -14,9 +14,14 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+            <version>${eureka.version}</version>
+        </dependency>
+        <dependency>
             <groupId>com.wangyaochong</groupId>
             <artifactId>cloud-api-commons</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>${projects.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
