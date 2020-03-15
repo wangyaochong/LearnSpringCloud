@@ -29,6 +29,7 @@ public class PaymentController {
 
     @Resource
     private DiscoveryClient discoveryClient;
+
     /**
      * 通过主键查询单条数据
      *
@@ -56,6 +57,7 @@ public class PaymentController {
         TimeUnit.SECONDS.sleep(3);
         return 1;
     }
+
     @GetMapping(value = "/payment/get/{id}")
     public CommonResult getPaymentById(@PathVariable("id") Long id) {
         Payment payment = paymentService.queryById(id);
@@ -78,5 +80,16 @@ public class PaymentController {
             log.info(instance.getServiceId() + "\t" + instance.getHost() + "\t" + instance.getPort() + "\t" + instance.getUri());
         }
         return discoveryClient;
+    }
+
+
+    @GetMapping(value = "/payment/hystrix/ok")
+    public String ok() {
+        return paymentService.paymentInfoOk();
+    }
+
+    @GetMapping(value = "/payment/hystrix/bad")
+    public String bad() {
+        return paymentService.paymentInfoBad();
     }
 }
