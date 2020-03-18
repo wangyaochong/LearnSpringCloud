@@ -1,15 +1,18 @@
-package com.wangyaochong;
+package com.atguigu.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
-import org.springframework.cloud.openfeign.EnableFeignClients;
 
-@SpringBootApplication
+/**
+ * @auther zzyy
+ * @create 2020-02-21 18:07
+ */
 @EnableEurekaClient
-@EnableFeignClients
-public class OrderMain8000Feign {
+@SpringBootApplication
+public class ConfigClientMain3355
+{
     public static void main(String[] args) {
-        SpringApplication.run(OrderMain8000Feign.class, args);
+            SpringApplication.run(ConfigClientMain3355.class, args);
     }
 }

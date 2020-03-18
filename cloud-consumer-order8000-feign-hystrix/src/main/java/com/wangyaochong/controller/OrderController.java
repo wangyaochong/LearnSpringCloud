@@ -2,6 +2,8 @@ package com.wangyaochong.controller;
 
 import com.atguigu.springcloud.entities.CommonResult;
 import com.atguigu.springcloud.entities.Payment;
+import com.netflix.hystrix.contrib.javanica.annotation.DefaultProperties;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.wangyaochong.interfaces.PaymentFeignService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -13,6 +15,7 @@ import javax.annotation.Resource;
 
 @RestController
 @Slf4j
+@DefaultProperties(defaultFallback = "paymentInfoBadGlobalHandler")
 public class OrderController {
 
     @Resource
@@ -46,6 +49,32 @@ public class OrderController {
     @GetMapping("/consumer/paymentEntity/get/{id}")
     public CommonResult getPaymentEntity(@PathVariable("id") Long id) {
         return restTemplate.getForEntity(PAYMENT_URL + "/payment/get/" + id, CommonResult.class).getBody();
+    }
+
+    @GetMapping(value = "/payment/hystrix/ok")
+    public String ok() {
+        log.info("/payment/hystrix/ok  called");
+        return paymentFeignService.ok();
+    }
+
+
+    //    @HystrixCommand(fallbackMethod = "paymentInfoBad_handler"
+//            , commandProperties = {@HystrixProperty(name = "execution.isolation.thread.timeoutInMilliseconds", value = "2000")}
+//    )
+    @HystrixCommand
+    @GetMapping(value = "/payment/hystrix/bad")
+    public String bad() {
+        log.info("/payment/hystrix/bad  called");
+        return paymentFeignService.bad();
+    }
+
+    public String paymentInfoBad_handler() {
+        System.out.println("hello");
+        return "paymentInfoBad_handler order";
+    }
+
+    public String paymentInfoBadGlobalHandler() {
+        return "paymentInfoBadGlobalHandler";
     }
 
 

@@ -1,6 +1,8 @@
 package com.wangyaochong.service.impl;
 
 import com.atguigu.springcloud.entities.Payment;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 import com.wangyaochong.dao.PaymentDao;
 import com.wangyaochong.service.PaymentService;
 import org.springframework.stereotype.Service;
@@ -18,20 +20,58 @@ import java.util.concurrent.TimeUnit;
 @Service("paymentService")
 public class PaymentServiceImpl implements PaymentService {
 
+    /**
+     * 具体的属性可以查看下面的类
+     * {@link com.netflix.hystrix.HystrixCommandProperties}
+     */
+    @Override
+    @HystrixCommand(fallbackMethod = "paymentCircuitBreakerFallBack", commandProperties = {
+            @HystrixProperty(name = "circuitBreaker.enabled", value = "true"),
+            @HystrixProperty(name = "circuitBreaker.requestVolumeThreshold", value = "10"),
+            @HystrixProperty(name = "circuitBreaker.sleepWindowInMilliseconds", value = "10000"),
+            @HystrixProperty(name = "circuitBreaker.errorThresholdPercentage", value = "60")
+
+
+    })
+    public String paymentCircuitBreaker(Integer i) {
+        if (i < 0) {
+            throw new RuntimeException("不能为负数");
+        }
+//        try {
+//            TimeUnit.SECONDS.sleep(1);
+//        } catch (InterruptedException e) {
+//            e.printStackTrace();
+//        }
+        return "paymentCircuitBreaker " + i;
+    }
+
+    @Override
+    public String paymentCircuitBreakerFallBack(Integer i) {
+        return "paymentCircuitBreakerFallBack " + i;
+    }
 
     @Override
     public String paymentInfoOk() {
         return "paymentInfoOk";
     }
 
+    @HystrixCommand(fallbackMethod = "paymentInfoBad_handler", commandProperties = {
+            @HystrixProperty(name = "execution.isolation.thread.timeoutInMilliseconds", value = "2000")
+    })
     @Override
     public String paymentInfoBad() {
         try {
+            //如果是运行异常，也会调用fallback方法
+//            int i = 1 / 0;
             TimeUnit.SECONDS.sleep(3);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
         return "paymentInfoBad";
+    }
+
+    public String paymentInfoBad_handler() {
+        return "paymentInfoBad_handler";
     }
 
     @Resource

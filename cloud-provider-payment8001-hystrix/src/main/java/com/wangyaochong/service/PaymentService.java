@@ -2,6 +2,8 @@ package com.wangyaochong.service;
 
 
 import com.atguigu.springcloud.entities.Payment;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 
 import java.util.List;
 
@@ -12,6 +14,17 @@ import java.util.List;
  * @since 2020-03-14 11:11:25
  */
 public interface PaymentService {
+
+    @HystrixCommand(fallbackMethod = "paymentCircuitBreakerFallBack", commandProperties = {
+            @HystrixProperty(name = "circuitBreaker.enabled", value = "true"),
+            @HystrixProperty(name = "circuitBreaker.requestVolumeThreshold", value = "10"),
+            @HystrixProperty(name = "circuitBreaker.sleepWindowInMilliseconds", value = "10000"),
+            @HystrixProperty(name = "circuitBreaker.errorThresholdPercentage", value = "60")
+
+    })
+    String paymentCircuitBreaker(Integer i);
+
+    String paymentCircuitBreakerFallBack(Integer i);
 
     String paymentInfoOk();
 

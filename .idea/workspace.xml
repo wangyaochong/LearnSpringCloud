@@ -4,70 +4,68 @@
     <bookmark url="file://$PROJECT_DIR$/../LearnJavaAlways/data-structure-algorithm/src/main/java/leetcode/byCategory/递归/八皇后超级简单.java" description="public void test() {" line="44" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c163a170-1d23-497d-b0bf-c581e42f0e50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/cloud-consumer-order8000-feign-hystrix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/OrderMain8000Feign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/config/FeignConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/config/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/interfaces/PaymentFeignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/cloud-consumer-order8000-feign.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/OrderMain8000Feign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/config/FeignConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/config/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/interfaces/PaymentFeignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/cloud-provider-payment8001-hystrix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/PaymentMain8001Hystrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/dao/PaymentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/resources/mapper/PaymentDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="c163a170-1d23-497d-b0bf-c581e42f0e50" name="Default Changelist" comment="feign">
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/cloud-config-center-3344.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/atguigu/springcloud/ConfigCenterMain3344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/cloud-config-client-3355.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/atguigu/springcloud/ConfigClientMain3355.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/atguigu/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/cloud-config-client-3366.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/atguigu/springcloud/ConfigClientMain3366.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/atguigu/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/interfaces/PaymentFeignServiceFallBackImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/wangyaochong/GateWayMain9527.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/wangyaochong/config/GateWayConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/wangyaochong/filter/MyLogGateWayFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/test/java/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/atguigu/springcloud/StreamMQMain8802.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/atguigu/springcloud/controller/ReceiveMessageListenerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/cloud-stream-rabbitmq-consumer8803.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/atguigu/springcloud/StreamMQMain8803.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/atguigu/springcloud/controller/ReceiveMessageListenerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/StreamMQMain8801.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/controller/SendMessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/service/IMessageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/service/impl/MessageProviderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-consul/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-consul/target/classes/com/wangyaochong/OrderMain8000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-consul/target/classes/com/wangyaochong/config/ApplicationContextConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-consul/target/classes/com/wangyaochong/config/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-consul/target/classes/com/wangyaochong/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-zk/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-zk/target/classes/com/wangyaochong/config/ApplicationContextConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-zk/target/classes/com/wangyaochong/config/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-zk/target/classes/com/wangyaochong/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/cloud-eureka-server7001-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/cloud-consumer-order8000-feign-hystrix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/cloud-consumer-order8000-feign-hystrix.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/OrderMain8000Feign.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/OrderMain8000FeignHystrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/interfaces/PaymentFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/interfaces/PaymentFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-feign/cloud-consumer-order8000-feign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/cloud-consumer-order8000-feign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000/cloud-consumer-order8000.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000/cloud-consumer-order8000.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/cloud-provider-payment8001-hystrix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/cloud-provider-payment8001-hystrix.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/PaymentMain8001Hystrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/PaymentMain8001Hystrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wangyaochong/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wangyaochong/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wangyaochong/PaymentMain8001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wangyaochong/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wangyaochong/dao/PaymentDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wangyaochong/service/PaymentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wangyaochong/service/impl/PaymentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/cloud-provider-payment8001-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8006-consul/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8006-consul/target/classes/com/wangyaochong/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8006-consul/target/classes/com/wangyaochong/dao/PaymentDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8006-consul/target/classes/com/wangyaochong/service/PaymentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8006-consul/target/classes/com/wangyaochong/service/impl/PaymentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8006-consul/target/classes/mapper/PaymentDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8006-consul/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8006-consul/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8006-consul/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -88,6 +86,14 @@
     <ignored path="$PROJECT_DIR$/cloud-provider-payment8001-hyistrix/target/" />
     <ignored path="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/target/" />
     <ignored path="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-gateway-gateway9527/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-config-center-3344/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-config-client-3355/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-config-client-3366/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,33 +137,53 @@
     <favorites_list name="LearnSpringCloud" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="237">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="184">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/PaymentService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/config/Test.java">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/ConfigClientMain3366.http">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/ConfigCenterMain3344.http">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="112">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/atguigu/springcloud/controller/ReceiveMessageListenerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#810#811#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/OrderMain8000.http">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="392">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
@@ -165,48 +191,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/impl/PaymentServiceImpl.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="33" column="30" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="30" />
-              <folding>
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="28">
+              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/controller/PaymentController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="92" column="41" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
-              <folding>
-                <element signature="e#2558#2559#0" expanded="true" />
-                <element signature="e#2612#2613#0" expanded="true" />
-                <element signature="e#2687#2688#0" expanded="true" />
-                <element signature="e#2741#2742#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/PaymentMain8001Hystrix.java">
+        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/service/IMessageProvider.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/OrderMain8000Feign.java">
+        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/StreamMQMain8801.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="308">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -215,29 +223,156 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/OrderMain8000Feign.http">
+        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/atguigu/springcloud/StreamMQMain8802.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="364">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2020-03-15T082309.200.json">
+        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/service/impl/MessageProviderImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.2.RELEASE/spring-boot-autoconfigure-2.2.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="44" column="50" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.1.RELEASE/spring-cloud-stream-3.0.1.RELEASE-sources.jar!/org/springframework/cloud/stream/messaging/Source.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.1.RELEASE/spring-cloud-stream-3.0.1.RELEASE-sources.jar!/org/springframework/cloud/stream/messaging/Sink.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/auth-requests.http">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/controller/OrderController.java">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/test-responses.http">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-eureka-server7002/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="588">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/wangyaochong/filter/MyLogGateWayFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/wangyaochong/GateWayMain9527.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/PaymentMain8001Hystrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding>
-                <element signature="e#1153#1154#0" expanded="true" />
-                <element signature="e#1230#1231#0" expanded="true" />
-                <element signature="e#1289#1290#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
+                <element signature="e#989#990#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2156">
+              <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2044">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10-sources.jar!/org/apache/http/impl/client/AbstractHttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18620">
+              <caret line="834" selection-start-line="834" selection-end-line="834" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10-sources.jar!/org/apache/http/impl/client/DefaultRequestDirector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9296">
+              <caret line="416" selection-start-line="416" selection-end-line="416" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wangyaochong/PaymentMain8001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -248,163 +383,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1092">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.2.RELEASE/spring-boot-2.2.2.RELEASE.jar!/org/springframework/boot/context/logging/LoggingApplicationListener.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2020-03-15T081116.200.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2020-03-15T080625.500.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2240">
-              <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/config/FeignConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/atguigu/springcloud/EurekaMain7002.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/wangyaochong/OrderMain8000.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/wangyaochong/controller/OrderController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2436">
-              <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/java.util.List">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>java.util.List</OriginalElement>
-              <nodes>
-                <node x="178.0" y="170.0">java.util.List</node>
-                <node x="0.0" y="255.0">java.util.Vector</node>
-                <node x="154.0" y="85.0">java.util.Collection</node>
-                <node x="162.0" y="0.0">java.lang.Iterable</node>
-                <node x="114.0" y="255.0">java.util.concurrent.CopyOnWriteArrayList</node>
-                <node x="340.0" y="255.0">java.util.ArrayList</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="java.util.ArrayList" target="java.util.Collection">
-                  <point x="29.5" y="-17.5" />
-                  <point x="428.5" y="145.0" />
-                  <point x="259.0" y="145.0" />
-                  <point x="42.0" y="17.5" />
-                </edge>
-                <edge source="java.util.concurrent.CopyOnWriteArrayList" target="java.util.List">
-                  <point x="0.0" y="-17.5" />
-                  <point x="0.0" y="17.5" />
-                </edge>
-                <edge source="java.util.Vector" target="java.util.List">
-                  <point x="23.5" y="-17.5" />
-                  <point x="70.5" y="230.0" />
-                  <point x="191.0" y="230.0" />
-                  <point x="-26.0" y="17.5" />
-                </edge>
-                <edge source="java.util.Vector" target="java.util.Collection">
-                  <point x="-23.5" y="-17.5" />
-                  <point x="23.5" y="145.0" />
-                  <point x="175.0" y="145.0" />
-                  <point x="-42.0" y="17.5" />
-                </edge>
-                <edge source="java.util.List" target="java.util.Collection">
-                  <point x="0.0" y="-17.5" />
-                  <point x="0.0" y="17.5" />
-                </edge>
-                <edge source="java.util.Collection" target="java.lang.Iterable">
-                  <point x="0.0" y="-17.5" />
-                  <point x="0.0" y="17.5" />
-                </edge>
-                <edge source="java.util.ArrayList" target="java.util.List">
-                  <point x="-29.5" y="-17.5" />
-                  <point x="369.5" y="230.0" />
-                  <point x="243.0" y="230.0" />
-                  <point x="26.0" y="17.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="229.0" y="145.0" />
-              <SelectedNodes>
-                <node>java.util.concurrent.CopyOnWriteArrayList</node>
-              </SelectedNodes>
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+            <state relative-caret-position="196">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -455,18 +437,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/ribbonrule/MySelfRule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/wangyaochong/PaymentMain8002.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
@@ -476,10 +446,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+        <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-zk/src/main/java/com/wangyaochong/OrderMain8000zk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+            <state relative-caret-position="196">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -487,20 +461,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/wangyaochong/config/ApplicationContextConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state relative-caret-position="336">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.2.1.RELEASE/spring-cloud-commons-2.2.1.RELEASE.jar!/org/springframework/cloud/client/loadbalancer/LoadBalanced.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -538,6 +503,23 @@
       <find>add(</find>
       <find>get(</find>
       <find>learn-spring-cloud</find>
+      <find>called</find>
+      <find>paymentInfoBad_handler</find>
+      <find>hystrixcommandproperties</find>
+      <find>max</find>
+      <find>maxconcurrent</find>
+      <find>actuator</find>
+      <find>dashboardconfi</find>
+      <find>Unable to connect to Command Metric Stream.</find>
+      <find>actua</find>
+      <find>spring</find>
+      <find>dev</find>
+      <find>proxy op</find>
+      <find>instance</find>
+      <find>非法用户</find>
+      <find>保护</find>
+      <find>rabbitm</find>
+      <find>localhost</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -546,57 +528,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zookeeperCluster.yml" />
-        <option value="$PROJECT_DIR$/zookeeperCluster2.yml" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8004/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/wangyaochong/PaymentMain8004.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8004-zk/src/main/java/com/wangyaochong/PaymentMain8004.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8004-zk/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/api.json" />
-        <option value="$PROJECT_DIR$/zookeeper/note.txt" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-zk/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-zk/src/main/java/com/wangyaochong/OrderMain8000.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-zk/src/main/java/com/wangyaochong/OrderMain8000zk.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8004-zk/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8004-zk/src/main/java/com/wangyaochong/PaymentMain8004zk.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-zk/src/main/java/com/wangyaochong/controller/OrderController.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8004-zk/src/main/java/com/wangyaochong/controller/PaymentController.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-zk/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8006-consul/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8006-consul/src/main/java/com/wangyaochong/PaymentMain8006consul.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8006-consul/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-consul/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-consul/src/main/java/com/wangyaochong/OrderMain8000.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-consul/src/main/java/com/wangyaochong/OrderMain8000consul.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-consul/src/main/java/com/wangyaochong/OrderMain8000Consul.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8006-consul/src/main/java/com/wangyaochong/PaymentMain8006Consul.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8004-zk/src/main/java/com/wangyaochong/PaymentMain8004Zk.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-consul/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-consul/src/main/java/com/wangyaochong/controller/OrderController.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/ribbonrule/MySelfRule.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/wangyaochong/OrderMain8000.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/wangyaochong/controller/OrderController.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8001-feign/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/OrderMain8000.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/OrderMain8000Feign.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/PaymentMain8001.http" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/controller/OrderController.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wangyaochong/controller/PaymentController.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/interfaces/PaymentFeignService.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/OrderMain8000Feign.http" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/config/FeignConfig.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hyistrix/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/pom.xml" />
-        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/impl/PaymentServiceImpl.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/PaymentMain8001Hystrix.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/controller/PaymentController.java" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/PaymentService.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/OrderMain8000Feign.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/interfaces/PaymentFeignServiceFallBack.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/interfaces/PaymentFeignService.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8002/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/OrderMain8000FeignHystrix.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-zk/src/main/java/com/wangyaochong/OrderMain8000zk.java" />
+        <option value="$USER_HOME$/.ideavimrc" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/interfaces/PaymentFeignServiceFallBackImpl.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix-dashboard/src/main/java/com/wangyaochong/OrderMain8000FeignHystrix.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/PaymentMain8001Hystrix.http" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/impl/PaymentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix-dashboard/src/main/java/com/wangyaochong/OrderMain8000FeignHystrixDashboard.java" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix-dashboard/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix-dashboard/pom.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/OrderMain8000Feign.http" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/PaymentMain8001Hystrix.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix-dashboard/src/test/java/TestHttpClient.java" />
+        <option value="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wangyaochong/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/wangyaochong/config/GateWayConfig.java" />
+        <option value="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8006-consul/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config-client-3366/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/ConfigClientMain3355.http" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/ConfigClientMain3366.http" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/atguigu/springcloud/controller/ReceiveMessageListenerController.java" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/StreamMQMain8801.java" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order8000/src/main/resources/application.yml" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/OrderMain8000.http" />
       </list>
     </option>
   </component>
@@ -613,11 +595,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="LearnSpringCloud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="cloud-provider-payment8001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="LearnSpringCloud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="cloud-provider-payment8001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -629,8 +611,8 @@
     <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1356" />
-    <option name="width" value="2091" />
+    <option name="x" value="1713" />
+    <option name="width" value="1734" />
     <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -638,10 +620,10 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -651,49 +633,14 @@
             </path>
             <path>
               <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-api-commons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-consumer-order8000" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-consumer-order8000-consul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-consumer-order8000-feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-consumer-order8000-feign-hystrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-consumer-order8000-zk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-eureka-server7001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -701,36 +648,148 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="430" />
-    <property name="RequestMappingsPanelWidth1" value="430" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learncloudconfig" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\LearnSpringCloud\zookeeper" />
+      <recent name="C:\Projects\LearnSpringCloud" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Projects\LearnSpringCloud" />
       <recent name="C:\Projects\LearnSpringCloud\cloud-consumer-order8000\src\main\java\com\wangyaochong" />
       <recent name="C:\Projects\LearnSpringCloud\cloud-provider-payment8001\src\main\resources" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Projects\LearnSpringCloud\zookeeper" />
-      <recent name="C:\Projects\LearnSpringCloud" />
-    </key>
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/consumer/payment/get/2" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/consumer/payment/get/1" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8801/sendMessage" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3366/configInfo" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3355/configInfo" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3355/actuator/refresh" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/vnd.spring-boot.actuator.v3+json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://192.168.1.3:8001" />
+          <option name="urlPath" value="/hystrix.stream" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="delay" />
+                <option name="value" value="2000" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="GET http://localhost:8000/consumer/payment/timeout" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://192.168.1.3:8001/hystrix.stream" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="delay" />
+                <option name="value" value="2000" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="GET http://localhost:8000/consumer/payment/timeout" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8001/payment/hystrix/circuit/1" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8001/payment/hystrix/circuit/-1" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/payment/hystrix/ok" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/payment/hystrix/bad" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8001/payment/hystrix/bad" />
@@ -748,13 +807,6 @@
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8001/payment/timeout" />
-          <option name="urlPath" value="" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8000/consumer/payment/get/1" />
           <option name="urlPath" value="" />
           <option name="textToSend" value="" />
           <option name="filesToSend" value="" />
@@ -796,11 +848,7 @@
     <treeState>
       <expand>
         <path>
-          <item name="Found 21 services " type="fcff1e1b:RestServiceStructure$RootNode" />
-        </path>
-        <path>
-          <item name="Found 21 services " type="fcff1e1b:RestServiceStructure$RootNode" />
-          <item name="cloud-provider-payment8006-consul" type="c588b436:RestServiceStructure$ProjectNode" />
+          <item name="Found 43 services " type="fcff1e1b:RestServiceStructure$RootNode" />
         </path>
       </expand>
       <select />
@@ -822,9 +870,9 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.26771006" />
+    <option name="contentProportion" value="0.25595763" />
   </component>
-  <component name="RunManager" selected="HTTP Request.PaymentMain8001Hystrix#1">
+  <component name="RunManager" selected="HTTP Request.OrderMain8000#1">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -837,13 +885,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentMain8001Hystrix#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/PaymentMain8001Hystrix.http">
+    <configuration name="OrderMain8000#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/OrderMain8000.http">
       <method v="2" />
     </configuration>
-    <configuration name="PaymentMain8001Hystrix#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/PaymentMain8001Hystrix.http" index="2">
-      <method v="2" />
-    </configuration>
-    <configuration name="PaymentMain8001Hystrix#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/PaymentMain8001Hystrix.http" index="3">
+    <configuration name="StreamMQMain8801#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/StreamMQMain8801.http">
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -894,6 +939,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderMain8000FeignHystrix" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order8000-feign-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangyaochong.OrderMain8000FeignHystrix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrderMain8000zk" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-order8000-zk" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangyaochong.OrderMain8000zk" />
@@ -905,19 +957,6 @@
       <module name="cloud-provider-payment8001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangyaochong.PaymentMain8001" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PaymentMain8001Hystrix" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-provider-payment8001-hystrix" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangyaochong.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangyaochong.PaymentMain8001Hystrix" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -943,6 +982,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamMQMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-stream-rabbitmq-provider8801" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.StreamMQMain8801" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-stream-rabbitmq-consumer8802" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.StreamMQMain8802" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -962,6 +1027,8 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="HTTP Request.StreamMQMain8801#1" />
+      <item itemvalue="HTTP Request.OrderMain8000#1" />
       <item itemvalue="Spring Boot.PaymentMain8001" />
       <item itemvalue="Spring Boot.PaymentMain8002" />
       <item itemvalue="Spring Boot.PaymentMain8004" />
@@ -970,20 +1037,19 @@
       <item itemvalue="Spring Boot.OrderMain8000Consul" />
       <item itemvalue="Spring Boot.OrderMain8000" />
       <item itemvalue="Spring Boot.EurekaMain7001" />
-      <item itemvalue="Spring Boot.PaymentMain8001Hystrix" />
-      <item itemvalue="Spring Boot.EurekaMain7002" />
-      <item itemvalue="HTTP Request.PaymentMain8001Hystrix#1" />
-      <item itemvalue="HTTP Request.PaymentMain8001Hystrix#2" />
-      <item itemvalue="HTTP Request.PaymentMain8001Hystrix#3" />
       <item itemvalue="Spring Boot.OrderMain8000Feign" />
+      <item itemvalue="Spring Boot.OrderMain8000FeignHystrix" />
+      <item itemvalue="Spring Boot.EurekaMain7002" />
+      <item itemvalue="Spring Boot.StreamMQMain8801" />
+      <item itemvalue="Spring Boot.StreamMQMain8802" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.PaymentMain8001Hystrix#1" />
-        <item itemvalue="Spring Boot.PaymentMain8001Hystrix" />
-        <item itemvalue="HTTP Request.PaymentMain8001Hystrix#2" />
-        <item itemvalue="HTTP Request.PaymentMain8001Hystrix#3" />
+        <item itemvalue="HTTP Request.OrderMain8000#1" />
         <item itemvalue="Spring Boot.EurekaMain7002" />
+        <item itemvalue="HTTP Request.StreamMQMain8801#1" />
+        <item itemvalue="Spring Boot.StreamMQMain8802" />
+        <item itemvalue="Spring Boot.StreamMQMain8801" />
       </list>
     </recent_temporary>
   </component>
@@ -1007,7 +1073,25 @@
       <workItem from="1584185711546" duration="12653000" />
       <workItem from="1584239506241" duration="170000" />
       <workItem from="1584239724317" duration="10504000" />
-      <workItem from="1584279535087" duration="1492000" />
+      <workItem from="1584279535087" duration="9119000" />
+      <workItem from="1584334272649" duration="1257000" />
+      <workItem from="1584351406375" duration="2721000" />
+      <workItem from="1584358765062" duration="9436000" />
+      <workItem from="1584417800365" duration="3841000" />
+      <workItem from="1584427422505" duration="377000" />
+      <workItem from="1584427839061" duration="1156000" />
+      <workItem from="1584429032194" duration="9948000" />
+      <workItem from="1584439041544" duration="5449000" />
+      <workItem from="1584444554314" duration="13291000" />
+      <workItem from="1584459103020" duration="697000" />
+      <workItem from="1584459832737" duration="1832000" />
+      <workItem from="1584462406674" duration="32000" />
+      <workItem from="1584462473943" duration="3548000" />
+      <workItem from="1584496834614" duration="1047000" />
+      <workItem from="1584498571201" duration="276000" />
+      <workItem from="1584499446939" duration="33000" />
+      <workItem from="1584499512466" duration="1388000" />
+      <workItem from="1584513966877" duration="416000" />
     </task>
     <task id="LOCAL-00001" summary="最简单的搭建">
       <created>1584167715769</created>
@@ -1030,14 +1114,35 @@
       <option name="project" value="LOCAL" />
       <updated>1584200688526</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feign">
+      <created>1584281044058</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584281044058</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feign">
+      <created>1584281222087</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584281222087</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feign">
+      <created>1584281258257</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584281258257</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56423000" />
+    <option name="totallyTimeSpent" value="120795000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1356" y="0" width="2091" height="1417" extended-state="0" />
+    <frame x="1713" y="0" width="1734" height="1417" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -1046,28 +1151,28 @@
       <window_info id="Structure" order="4" sideWeight="0.49917626" side_tool="true" weight="0.14869523" />
       <window_info id="Code Time" order="5" sideWeight="0.57322836" side_tool="true" weight="0.22365989" />
       <window_info content_ui="combo" id="Hierarchy" order="6" weight="0.31042796" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.50082374" visible="true" weight="0.1723289" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.50082374" visible="true" weight="0.1869773" />
       <window_info id="RestServices" order="8" sideWeight="0.50065017" type="SLIDING" weight="0.13490891" />
       <window_info anchor="bottom" id="Database Console" order="0" visible="true" weight="0.418844" />
       <window_info anchor="bottom" id="Build" order="1" weight="0.32858273" />
       <window_info anchor="bottom" id="Analysis" order="2" weight="0.48772764" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.4968" weight="0.32858273" />
-      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5016103" side_tool="true" weight="0.36500397" />
-      <window_info anchor="bottom" id="Java Enterprise" order="6" weight="0.3294025" />
-      <window_info anchor="bottom" id="Database Changes" order="7" weight="0.32858273" />
-      <window_info anchor="bottom" id="Message" order="8" />
-      <window_info anchor="bottom" id="Find" order="9" weight="0.32858273" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.45169547" visible="true" weight="0.73159146" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.7998221" weight="0.32858273" />
-      <window_info anchor="bottom" id="Debug" order="12" sideWeight="0.49733096" weight="0.3824228" />
-      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="15" />
-      <window_info anchor="bottom" id="Application Servers" order="16" weight="0.32858273" />
-      <window_info anchor="bottom" id="Web" order="17" sideWeight="0.60182023" weight="0.30720508" />
-      <window_info anchor="bottom" id="Spring" order="18" weight="0.32858273" />
-      <window_info anchor="bottom" id="Bean Validation" order="19" weight="0.32858273" />
+      <window_info anchor="bottom" id="Run Dashboard" order="3" sideWeight="0.4983897" visible="true" weight="0.4101346" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4968" weight="0.35550278" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5016103" side_tool="true" weight="0.36500397" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.3294025" />
+      <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32858273" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32858273" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.45169547" weight="0.41646874" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.7998221" weight="0.3222486" />
+      <window_info anchor="bottom" id="Debug" order="13" sideWeight="0.49733096" weight="0.3824228" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" />
+      <window_info anchor="bottom" id="Application Servers" order="17" weight="0.32858273" />
+      <window_info anchor="bottom" id="Web" order="18" sideWeight="0.60182023" weight="0.30720508" />
+      <window_info anchor="bottom" id="Spring" order="19" weight="0.32858273" />
       <window_info anchor="bottom" id="Inspection Results" order="20" visible="true" weight="0.3293745" />
       <window_info anchor="bottom" id="SonarLint" order="21" sideWeight="0.64928573" weight="0.32858273" />
       <window_info anchor="bottom" id="Ant Build" order="22" show_stripe_button="false" sideWeight="0.49925262" weight="0.24940617" />
@@ -1076,9 +1181,11 @@
       <window_info anchor="bottom" id="Problems" order="25" weight="0.21140142" />
       <window_info anchor="bottom" id="Run with VisualVM" order="26" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="27" />
-      <window_info anchor="bottom" id="Run Dashboard" order="28" sideWeight="0.4983897" weight="0.36500397" />
-      <window_info anchor="bottom" x="1817" y="1051" width="1559" height="244" id="Messages" order="29" weight="0.3642122" />
+      <window_info anchor="bottom" x="1817" y="1051" width="1559" height="244" id="Messages" order="28" weight="0.3016627" />
+      <window_info anchor="bottom" id="Bean Validation" order="29" weight="0.32858273" />
       <window_info anchor="bottom" id="Favorites" order="30" sideWeight="0.54830456" weight="0.3436263" />
+      <window_info anchor="bottom" id="REST Client" order="31" weight="0.48060173" />
+      <window_info anchor="bottom" id="GenProtobuf-Output" order="32" />
       <window_info anchor="right" id="Mybatis datasource" order="0" side_tool="true" />
       <window_info anchor="right" id="Coverage" order="1" side_tool="true" weight="0.29603124" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -1089,9 +1196,9 @@
       <window_info anchor="right" id="Redis Servers" order="7" visible="true" weight="0.08810844" />
       <window_info anchor="right" id="leetcode" order="8" side_tool="true" weight="0.0994584" />
       <window_info anchor="right" id="Word Book" order="9" sideWeight="0.49710983" side_tool="true" weight="0.10215054" />
-      <window_info anchor="right" id="Maven" order="10" visible="true" weight="0.17725259" />
+      <window_info anchor="right" id="Maven" order="10" visible="true" weight="0.10692951" />
       <window_info anchor="right" id="Quick Notes" order="11" weight="0.32956687" />
-      <window_info anchor="right" id="Database" order="12" sideWeight="0.4992785" weight="0.24126047" />
+      <window_info anchor="right" id="Database" order="12" sideWeight="0.4992785" weight="0.10360138" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1122,13 +1229,28 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="最简单的搭建" />
     <MESSAGE value="zookeeper注册中心和consul注册中心" />
-    <option name="LAST_COMMIT_MESSAGE" value="zookeeper注册中心和consul注册中心" />
+    <MESSAGE value="feign" />
+    <option name="LAST_COMMIT_MESSAGE" value="feign" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1139,239 +1261,315 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/PaymentMain8001Hystrix.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.1.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardConfiguration.java</url>
+          <line>177</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.1.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardConfiguration.java</url>
+          <line>175</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10-sources.jar!/org/apache/http/impl/client/AbstractHttpClient.java</url>
+          <line>808</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10-sources.jar!/org/apache/http/impl/client/DefaultRequestDirector.java</url>
+          <line>480</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-544" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hyistrix/cloud-provider-payment8001.iml" />
-    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="224">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/cloud-stream-rabbitmq-consumer8803.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/interfaces/PaymentFeignService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/atguigu/springcloud/StreamMQMain8803.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wangyaochong/controller/PaymentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1204">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/PaymentMain8001.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5fccf9fc-cd7e-498d-bc0d-1fbe05194563/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/learnspringcloud/table/payment">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="9f6ddceb-de5e-46dc-942d-b1b83d573bbe">
-          <filtering />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/OrderMain8000Feign.java">
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/atguigu/springcloud/controller/ReceiveMessageListenerController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/OrderMain8000Feign.http">
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        <state relative-caret-position="557">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2020-03-15T082309.200.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/controller/OrderController.java">
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/controller/SendMessageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="476">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding>
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1230#1231#0" expanded="true" />
-            <element signature="e#1289#1290#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/resources/application.yml">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/ConfigClientMain3355.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        <state relative-caret-position="140">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.2.RELEASE/spring-boot-2.2.2.RELEASE.jar!/org/springframework/boot/context/logging/LoggingApplicationListener.class">
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2020-03-15T081116.200.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2020-03-15T080625.500.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/target/classes/com/ribbonrule/MySelfRule.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2240">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/src/main/java/com/wangyaochong/config/FeignConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="196">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/wangyaochong/OrderMain8000.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="15" selection-start-line="15" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/wangyaochong/controller/OrderController.java">
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001/hs_err_pid11388.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/ConfigClientMain3366.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/ConfigCenterMain3344.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/atguigu/springcloud/controller/ReceiveMessageListenerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#810#811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/OrderMain8000.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/service/IMessageProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/StreamMQMain8801.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/atguigu/springcloud/StreamMQMain8802.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2436">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        <state relative-caret-position="364">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/java.util.List">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.List</OriginalElement>
-          <nodes>
-            <node x="178.0" y="170.0">java.util.List</node>
-            <node x="0.0" y="255.0">java.util.Vector</node>
-            <node x="154.0" y="85.0">java.util.Collection</node>
-            <node x="162.0" y="0.0">java.lang.Iterable</node>
-            <node x="114.0" y="255.0">java.util.concurrent.CopyOnWriteArrayList</node>
-            <node x="340.0" y="255.0">java.util.ArrayList</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.ArrayList" target="java.util.Collection">
-              <point x="29.5" y="-17.5" />
-              <point x="428.5" y="145.0" />
-              <point x="259.0" y="145.0" />
-              <point x="42.0" y="17.5" />
-            </edge>
-            <edge source="java.util.concurrent.CopyOnWriteArrayList" target="java.util.List">
-              <point x="0.0" y="-17.5" />
-              <point x="0.0" y="17.5" />
-            </edge>
-            <edge source="java.util.Vector" target="java.util.List">
-              <point x="23.5" y="-17.5" />
-              <point x="70.5" y="230.0" />
-              <point x="191.0" y="230.0" />
-              <point x="-26.0" y="17.5" />
-            </edge>
-            <edge source="java.util.Vector" target="java.util.Collection">
-              <point x="-23.5" y="-17.5" />
-              <point x="23.5" y="145.0" />
-              <point x="175.0" y="145.0" />
-              <point x="-42.0" y="17.5" />
-            </edge>
-            <edge source="java.util.List" target="java.util.Collection">
-              <point x="0.0" y="-17.5" />
-              <point x="0.0" y="17.5" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-17.5" />
-              <point x="0.0" y="17.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.util.List">
-              <point x="-29.5" y="-17.5" />
-              <point x="369.5" y="230.0" />
-              <point x="243.0" y="230.0" />
-              <point x="26.0" y="17.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="229.0" y="145.0" />
-          <SelectedNodes>
-            <node>java.util.concurrent.CopyOnWriteArrayList</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/service/impl/MessageProviderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.2.RELEASE/spring-boot-autoconfigure-2.2.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="44" column="50" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.1.RELEASE/spring-cloud-stream-3.0.1.RELEASE-sources.jar!/org/springframework/cloud/stream/messaging/Source.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.1.RELEASE/spring-cloud-stream-3.0.1.RELEASE-sources.jar!/org/springframework/cloud/stream/messaging/Sink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/auth-requests.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/test-responses.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-server7002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/wangyaochong/filter/MyLogGateWayFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/wangyaochong/GateWayMain9527.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/PaymentMain8001Hystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2156">
+          <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2044">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10-sources.jar!/org/apache/http/impl/client/AbstractHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18620">
+          <caret line="834" selection-start-line="834" selection-end-line="834" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10-sources.jar!/org/apache/http/impl/client/DefaultRequestDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9296">
+          <caret line="416" selection-start-line="416" selection-end-line="416" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wangyaochong/PaymentMain8001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/dao/PaymentDao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/atguigu/springcloud/EurekaMain7002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1414,16 +1612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/ribbonrule/MySelfRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/wangyaochong/PaymentMain8002.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -1431,27 +1619,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-zk/src/main/java/com/wangyaochong/OrderMain8000zk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        <state relative-caret-position="196">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/src/main/java/com/wangyaochong/config/ApplicationContextConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="336">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.2.1.RELEASE/spring-cloud-commons-2.2.1.RELEASE.jar!/org/springframework/cloud/client/loadbalancer/LoadBalanced.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1462,115 +1647,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnSpringCloud.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/atguigu/springcloud/EurekaMain7002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/PaymentMain8001Hystrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/dao/PaymentDao.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/impl/PaymentServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="33" column="30" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="30" />
-          <folding>
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/controller/PaymentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="92" column="41" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
-          <folding>
-            <element signature="e#2558#2559#0" expanded="true" />
-            <element signature="e#2612#2613#0" expanded="true" />
-            <element signature="e#2687#2688#0" expanded="true" />
-            <element signature="e#2741#2742#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/src/main/java/com/wangyaochong/service/PaymentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/cloud-consumer-order8000-feign.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/src/main/java/com/wangyaochong/config/Test.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001-hystrix/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign/target/classes/com/wangyaochong/config/ApplicationContextConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#587#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="28">
+          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -1625,7 +1706,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>LearnSpringCloud</last-edited>
+          <last-edited>cloud-consumer-order8000</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1674,8 +1755,8 @@
     </states>
   </component>
   <component name="mavenExecuteGoalHistory">
-    <option value="$PROJECT_DIR$" />
-    <option value="dependency:resolve -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+    <option value="$PROJECT_DIR$/cloud-provider-payment8001-hystrix" />
     <option value="dependency:resolve -Dclassifier=sources -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+    <option value="dependency:resolve -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
   </component>
 </project>

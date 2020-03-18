@@ -92,4 +92,10 @@ public class PaymentController {
     public String bad() {
         return paymentService.paymentInfoBad();
     }
+
+    @GetMapping(value = "/payment/hystrix/circuit/{id}")
+    public String circuit(@PathVariable Integer id) {
+        return paymentService.paymentCircuitBreaker(id);
+    }
+
 }
