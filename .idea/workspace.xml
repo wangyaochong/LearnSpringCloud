@@ -5,7 +5,10 @@
     <bookmark url="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.0.0/seata-all-1.0.0-sources.jar!/io/seata/core/rpc/netty/NettyClientChannelManager.java" description="List&lt;InetSocketAddress&gt; availInetSocketAddressList..." line="215" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c163a170-1d23-497d-b0bf-c581e42f0e50" name="Default Changelist" comment="" />
+    <list default="true" id="c163a170-1d23-497d-b0bf-c581e42f0e50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004-zk/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004-zk/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cloud-provider-payment8001/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -150,10 +153,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
+            <state relative-caret-position="479">
               <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
             </state>
           </provider>
@@ -288,6 +291,11 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -381,8 +389,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/atguigu/springcloud/alibaba/controller/CircleBreakerController.java" />
         <option value="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/resources/application.yml" />
         <option value="C:/书/seata-server-1.0.0/seata/conf/registry.conf" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/09af3c65-620a-4d1c-b108-8361fb0de5ea/console_3.sql" />
@@ -432,6 +438,8 @@
         <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java" />
         <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/impl/OrderServiceImpl.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/ConfigCenterMain3344.http" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8004-zk/pom.xml" />
       </list>
     </option>
   </component>
@@ -445,17 +453,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="seata-storage-service2002" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="seata-storage-service2002" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -463,7 +461,7 @@
     <option name="skipTests" value="true" />
     <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Xmx1000m" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1713" />
     <option name="width" value="1734" />
     <option name="height" value="1417" />
@@ -490,10 +488,6 @@
               <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -1095,7 +1089,7 @@
       <workItem from="1584599065342" duration="70000" />
       <workItem from="1584599167862" duration="1316000" />
       <workItem from="1584600951637" duration="23277000" />
-      <workItem from="1584625250392" duration="7206000" />
+      <workItem from="1584625250392" duration="7583000" />
     </task>
     <task id="LOCAL-00001" summary="最简单的搭建">
       <created>1584167715769</created>
@@ -1160,14 +1154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584632654361</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="seata全局tx_id">
+      <created>1584632808185</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584632808185</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184935000" />
+    <option name="totallyTimeSpent" value="185312000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="3456" height="1426" extended-state="6" />
+    <frame x="1713" y="0" width="1734" height="1417" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -1176,12 +1177,12 @@
       <window_info id="Structure" order="4" sideWeight="0.49917626" side_tool="true" weight="0.14869523" />
       <window_info id="Code Time" order="5" sideWeight="0.57322836" side_tool="true" weight="0.22365989" />
       <window_info content_ui="combo" id="Hierarchy" order="6" weight="0.31042796" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.50082374" visible="true" weight="0.1746172" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.50082374" visible="true" weight="0.19235365" />
       <window_info id="RestServices" order="8" sideWeight="0.50065017" type="SLIDING" weight="0.13490891" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.3128931" />
       <window_info anchor="bottom" id="Build" order="1" weight="0.32858273" />
       <window_info anchor="bottom" id="Analysis" order="2" weight="0.48772764" />
-      <window_info anchor="bottom" id="Run Dashboard" order="3" sideWeight="0.4978204" weight="0.4072327" />
+      <window_info anchor="bottom" id="Run Dashboard" order="3" sideWeight="0.4978204" weight="0.32861635" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4968" weight="0.35550278" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5021796" side_tool="true" weight="0.3388365" />
@@ -1189,7 +1190,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32858273" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32858273" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.45169547" visible="true" weight="0.586478" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.45169547" visible="true" weight="0.40855107" />
       <window_info anchor="bottom" id="Run" order="12" sideWeight="0.61333334" weight="0.4591195" />
       <window_info anchor="bottom" id="Debug" order="13" sideWeight="0.49733096" weight="0.3824228" />
       <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
@@ -1222,9 +1223,9 @@
       <window_info anchor="right" id="Redis Servers" order="7" visible="true" weight="0.08810844" />
       <window_info anchor="right" id="leetcode" order="8" side_tool="true" weight="0.0994584" />
       <window_info anchor="right" id="Word Book" order="9" sideWeight="0.49710983" side_tool="true" weight="0.10215054" />
-      <window_info anchor="right" id="Maven" order="10" weight="0.18256773" />
+      <window_info anchor="right" id="Maven" order="10" visible="true" weight="0.15352449" />
       <window_info anchor="right" id="Quick Notes" order="11" weight="0.32956687" />
-      <window_info anchor="right" id="Database" order="12" sideWeight="0.4992785" visible="true" weight="0.13722026" />
+      <window_info anchor="right" id="Database" order="12" sideWeight="0.4992785" weight="0.18399045" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1429,107 +1430,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.1.0/seata-all-1.1.0-sources.jar!/io/seata/common/util/StringUtils.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.1.0/seata-all-1.1.0-sources.jar!/io/seata/common/thread/NamedThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/MyBatisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/domain/CommonResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/书/seata-server-0.9.0/seata/conf/db_undo_log.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="42" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-order-service2001/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="718">
-          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/xregistry.confx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/mapper/AccountMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/SeataStorageServiceApplication2002.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/service/impl/AccountServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/service/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptorConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptorConfiguration.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1562,42 +1462,6 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/09af3c65-620a-4d1c-b108-8361fb0de5ea/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata/table/undo_log">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_account/table/undo_log">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_order/table/undo_log">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_storage/table/undo_log">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
     </entry>
     <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata/table/branch_table">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -1689,15 +1553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_storage/table/t_storage">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
     <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_account/table/t_account">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
@@ -1760,12 +1615,122 @@
     <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/cloud-stream-rabbitmq-consumer8803.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-config-center-3344/cloud-config-center-3344.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-config-client-3355/cloud-config-client-3355.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-config-client-3366/cloud-config-client-3366.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnSpringCloud.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
+        <state relative-caret-position="479">
           <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata/table/undo_log">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_account/table/undo_log">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_order/table/undo_log">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_storage/table/undo_log">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8004-zk/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8004-zk/cloud-provider-payment8004zk.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_storage/table/t_storage">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
