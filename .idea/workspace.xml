@@ -5,61 +5,7 @@
     <bookmark url="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.0.0/seata-all-1.0.0-sources.jar!/io/seata/core/rpc/netty/NettyClientChannelManager.java" description="List&lt;InetSocketAddress&gt; availInetSocketAddressList..." line="215" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c163a170-1d23-497d-b0bf-c581e42f0e50" name="Default Changelist" comment="seata">
-      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/RequestHeaderInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptorConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/config/xid/RequestHeaderInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptorConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/config/xid/RequestHeaderInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptorConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-consul/cloud-consumer-order8000-consul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000-consul/cloud-consumer-order8000-consul.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/cloud-consumer-order8000-feign-hystrix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign-hystrix/cloud-consumer-order8000-feign-hystrix.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-feign/cloud-consumer-order8000-feign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000-feign/cloud-consumer-order8000-feign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000-zk/cloud-consumer-order8000-zk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000-zk/cloud-consumer-order8000-zk.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order8000/cloud-consumer-order8000.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order8000/cloud-consumer-order8000.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/cloud-eureka-server7001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/cloud-eureka-server7001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/cloud-eureka-server7002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/cloud-eureka-server7002.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/cloud-provider-payment8001-hystrix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001-hystrix/cloud-provider-payment8001-hystrix.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004-zk/cloud-provider-payment8004-zk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004-zk/cloud-provider-payment8004-zk.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8006-consul/cloud-provider-payment8006-consul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8006-consul/cloud-provider-payment8006-consul.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/cloudalibaba-consumer-nacos-order84.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/cloudalibaba-consumer-nacos-order84.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/cloudalibaba-provider-payment9003.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/cloudalibaba-provider-payment9003.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/cloudalibaba-provider-payment9004.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/cloudalibaba-provider-payment9004.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/cloudalibaba-sentinel-service8401.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/cloudalibaba-sentinel-service8401.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/seata-account-service2003.iml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/seata-account-service2003.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/SeataAccountMainApp2003.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/SeataAccountMainApp2003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/DataSourceProxyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/DataSourceProxyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/file.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/registry.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/seata-order-service2001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/seata-order-service2001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/SeataOrderMainApp2001.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/SeataOrderMainApp2001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/config/DataSourceProxyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/config/DataSourceProxyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/file.conf" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/xfile.confx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/registry.conf" beforeDir="false" afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/xregistry.confx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/seata-storage-service2002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/seata-storage-service2002.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/SeataStorageServiceApplication2002.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/SeataStorageServiceApplication2002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/config/DataSourceProxyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/config/DataSourceProxyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/file.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/registry.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/init.sql" afterDir="false" />
-    </list>
+    <list default="true" id="c163a170-1d23-497d-b0bf-c581e42f0e50" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cloud-provider-payment8001/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -160,6 +106,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="188">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/OrderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.1.0/seata-all-1.1.0-sources.jar!/io/seata/core/context/RootContext.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -186,20 +150,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="32" selection-start-line="32" selection-end-line="42" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/xfile.confx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-784">
-              <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+            <state relative-caret-position="430">
+              <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -290,15 +245,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/SeataAccountMainApp2003.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_order/table/undo_log">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
@@ -331,7 +277,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_storage/table/t_storage">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
@@ -346,7 +292,7 @@
         <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="587">
-              <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -463,7 +409,6 @@
         <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/SeataOrderMainApp2001.java" />
         <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/SeataAccountMainApp2003.java" />
         <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/SeataStorageServiceApplication2002.java" />
-        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/impl/OrderServiceImpl.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5fccf9fc-cd7e-498d-bc0d-1fbe05194563/console_1.sql" />
         <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/seata-order-service2001/src/main/resources/application.yml" />
@@ -484,8 +429,9 @@
         <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/RequestHeaderInterceptor.java" />
         <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java" />
         <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/ConfigCenterMain3344.http" />
         <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/impl/OrderServiceImpl.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/ConfigCenterMain3344.http" />
       </list>
     </option>
   </component>
@@ -543,350 +489,6 @@
             <path>
               <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="xid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-account-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="xid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="xid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-storage-service2002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -919,7 +521,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1493,7 +1095,7 @@
       <workItem from="1584599065342" duration="70000" />
       <workItem from="1584599167862" duration="1316000" />
       <workItem from="1584600951637" duration="23277000" />
-      <workItem from="1584625250392" duration="6947000" />
+      <workItem from="1584625250392" duration="7206000" />
     </task>
     <task id="LOCAL-00001" summary="最简单的搭建">
       <created>1584167715769</created>
@@ -1551,15 +1153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584596397425</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="seata全局tx_id">
+      <created>1584632654361</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584632654361</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184676000" />
+    <option name="totallyTimeSpent" value="184935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="3456" height="1426" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -1581,8 +1189,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32858273" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32858273" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.45169547" weight="0.38207546" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.61333334" visible="true" weight="0.4591195" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.45169547" visible="true" weight="0.586478" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.61333334" weight="0.4591195" />
       <window_info anchor="bottom" id="Debug" order="13" sideWeight="0.49733096" weight="0.3824228" />
       <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
@@ -1670,7 +1278,8 @@
     <MESSAGE value="feign" />
     <MESSAGE value="完成spring cloud，接下来学习spring cloud alibaba" />
     <MESSAGE value="seata" />
-    <option name="LAST_COMMIT_MESSAGE" value="seata" />
+    <MESSAGE value="seata全局tx_id" />
+    <option name="LAST_COMMIT_MESSAGE" value="seata全局tx_id" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1820,15 +1429,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.1.0/seata-all-1.1.0-sources.jar!/io/seata/common/util/IOUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.1.0/seata-all-1.1.0-sources.jar!/io/seata/common/util/NetUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.1.0/seata-all-1.1.0-sources.jar!/io/seata/common/util/NumberUtils.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.1.0/seata-all-1.1.0-sources.jar!/io/seata/common/util/StringUtils.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1857,20 +1457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/impl/OrderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/书/seata-server-0.9.0/seata/conf/db_undo_log.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -1883,13 +1469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="718">
           <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/xfile.confx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-784">
-          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -1908,13 +1487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="32" selection-start-line="32" selection-end-line="42" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1967,24 +1539,10 @@
     <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/config/xid/RequestHeaderInterceptor.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/controller/AccountController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/SeataOrderMainApp2001.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="20" column="81" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="81" />
         </state>
       </provider>
     </entry>
@@ -2059,43 +1617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/ConfigCenterMain3344.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptorConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/RequestHeaderInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/1.1.0/seata-all-1.1.0-sources.jar!/io/seata/core/context/RootContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -2117,13 +1638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/DataSourceProxyConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/SeataAccountMainApp2003.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -2131,7 +1645,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/ConfigCenterMain3344.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
     <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_order/table/t_order">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_storage/table/t_storage">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
           <filtering>
@@ -2149,12 +1707,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://5fccf9fc-cd7e-498d-bc0d-1fbe05194563/schema/seata_storage/table/t_storage">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="91dfe33b-e877-4a1d-9c70-89a3af3d57d5">
-          <filtering>
-            <filter text="" />
-          </filtering>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/RequestHeaderInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/xid/SeataHandlerInterceptorConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/alibaba/config/DataSourceProxyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/xfile.confx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-784">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-order8000-consul/cloud-consumer-order8000-consul.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2020-03-19T114116.500.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
         </state>
       </provider>
     </entry>
