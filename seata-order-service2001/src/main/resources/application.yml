@@ -4,19 +4,15 @@ server:
 spring:
   application:
     name: seata-order-service
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/seata_order
+    username: wangyaochong
+    password: qwerqwer
   cloud:
-    alibaba:
-      seata:
-        #自定义事务组名称需要与seata-server中的对应
-        tx-service-group: my_tx_group
     nacos:
       discovery:
         server-addr: wangyaochong:8848
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/seata_order
-    username: wangyaochong
-    password: qwerqwer
 
 feign:
   hystrix:
@@ -29,3 +25,19 @@ logging:
 
 mybatis:
   mapperLocations: classpath:mapper/*.xml
+
+
+seata:
+  tx-service-group: my-tx-group
+  service:
+    grouplist:
+      #      default: wangyaochong:8091
+      default: 127.0.0.1:8091
+    vgroup-mapping:
+      my-tx-group: default
+  enabled: true
+  application-id: ${spring.application.name}
+#  enable-auto-data-source-proxy: false
+
+
+

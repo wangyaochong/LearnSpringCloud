@@ -2,10 +2,10 @@ package com.atguigu.springcloud.alibaba.service.impl;
 
 
 import com.atguigu.springcloud.alibaba.dao.AccountDao;
-import com.atguigu.springcloud.alibaba.service.AccountService ;
+import com.atguigu.springcloud.alibaba.service.AccountService;
+import io.seata.core.context.RootContext;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
@@ -30,6 +30,8 @@ public class AccountServiceImpl implements AccountService {
      */
     @Override
     public void decrease(Long userId, BigDecimal money) {
+        String xid = RootContext.getXID();
+        LOGGER.info("-----xid----->" + xid);
         LOGGER.info("------->account-service中扣减账户余额开始");
         //模拟超时异常，全局事务回滚
         //暂停几秒钟线程

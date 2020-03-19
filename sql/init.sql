@@ -41,8 +41,8 @@ create table seata_storage.`t_storage`
 insert into seata_storage.t_storage(`id`, `product_id`, `total`, `used`, `residue`) value (1, 1, 100, 0, 100);
 
 
-drop table if exists seata_account.`t_acount`;
-create table seata_account.`t_acount`
+drop table if exists seata_account.`t_account`;
+create table seata_account.`t_account`
 (
     `id`      bigint not null auto_increment primary key,
     `user_id` bigint         default null comment '用户id',
@@ -52,3 +52,54 @@ create table seata_account.`t_acount`
 ) engine = InnoDB
   auto_increment = 1
   default charset = utf8;
+insert into seata_account.t_account(`id`, `user_id`, `total`, `used`, `residue`) value (1, 1, 1000, 0, 1000);
+
+
+
+create table if not exists seata_account.undo_log
+(
+    id            bigint auto_increment comment 'increment id'
+        primary key,
+    branch_id     bigint       not null comment 'branch transaction id',
+    xid           varchar(100) not null comment 'global transaction id',
+    context       varchar(128) not null comment 'undo_log context,such as serialization',
+    rollback_info longblob     not null comment 'rollback info',
+    log_status    int          not null comment '0:normal status,1:defense status',
+    log_created   datetime     not null comment 'create datetime',
+    log_modified  datetime     not null comment 'modify datetime',
+    constraint ux_undo_log
+        unique (xid, branch_id)
+)
+    comment 'AT transaction mode undo table' charset = utf8;
+
+create table if not exists seata_storage.undo_log
+(
+    id            bigint auto_increment comment 'increment id'
+        primary key,
+    branch_id     bigint       not null comment 'branch transaction id',
+    xid           varchar(100) not null comment 'global transaction id',
+    context       varchar(128) not null comment 'undo_log context,such as serialization',
+    rollback_info longblob     not null comment 'rollback info',
+    log_status    int          not null comment '0:normal status,1:defense status',
+    log_created   datetime     not null comment 'create datetime',
+    log_modified  datetime     not null comment 'modify datetime',
+    constraint ux_undo_log
+        unique (xid, branch_id)
+)
+    comment 'AT transaction mode undo table' charset = utf8;
+
+create table if not exists seata_order.undo_log
+(
+    id            bigint auto_increment comment 'increment id'
+        primary key,
+    branch_id     bigint       not null comment 'branch transaction id',
+    xid           varchar(100) not null comment 'global transaction id',
+    context       varchar(128) not null comment 'undo_log context,such as serialization',
+    rollback_info longblob     not null comment 'rollback info',
+    log_status    int          not null comment '0:normal status,1:defense status',
+    log_created   datetime     not null comment 'create datetime',
+    log_modified  datetime     not null comment 'modify datetime',
+    constraint ux_undo_log
+        unique (xid, branch_id)
+)
+    comment 'AT transaction mode undo table' charset = utf8;

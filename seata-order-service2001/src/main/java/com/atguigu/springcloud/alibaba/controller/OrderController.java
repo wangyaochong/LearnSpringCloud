@@ -18,6 +18,7 @@ public class OrderController
     @Resource
     private OrderService orderService;
 
+//下单url：http://localhost:2001/order/create?userId=1&productId=1&count=10&money=10
 
     @GetMapping("/order/create")
     public CommonResult create(Order order)

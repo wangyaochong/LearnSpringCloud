@@ -5,15 +5,15 @@ spring:
   application:
     name: seata-account-service
   cloud:
-    alibaba:
-      seata:
-        tx-service-group: my_tx_group
     nacos:
       discovery:
         server-addr: wangyaochong:8848
+    alibaba:
+      seata:
+        tx-service-group: my-tx-group
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/seata_account
+    url: jdbc:mysql://127.0.0.1:3306/seata_account
     username: wangyaochong
     password: qwerqwer
 
@@ -30,3 +30,14 @@ mybatis:
   mapperLocations: classpath:mapper/*.xml
 
 
+seata:
+  tx-service-group: my-tx-group
+  service:
+    grouplist:
+      #      default: wangyaochong:8091
+      default: 127.0.0.1:8091
+    vgroup-mapping:
+      my-tx-group: default
+  enabled: true
+  application-id: ${spring.application.name}
+#  enable-auto-data-source-proxy: false
