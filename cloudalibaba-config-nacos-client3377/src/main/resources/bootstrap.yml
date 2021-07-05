@@ -5,16 +5,16 @@ spring:
   #  profiles:
   #    active: dev
   application:
-    name: nacos-config-client
+    name: nacos-simple-demo
   cloud:
     nacos:
       discovery:
-        server-addr: wangyaochong:1111 #Nacos服务注册中心地址
+        server-addr: 127.0.0.1:8848 #Nacos服务注册中心地址
       config:
-        server-addr: wangyaochong:1111 #Nacos作为配置中心地址
-        file-extension: yaml #指定yaml格式的配置
-#        group: DEV_GROUP
-#        namespace: 8047633b-c4d1-4c6e-ba0a-f36be1735dd5
+        server-addr: 127.0.0.1:8848 #Nacos作为配置中心地址
+        file-extension: yml #指定yaml格式的配置  ！！！注意，项目名称+扩展名就是dataId
+        group: DEFAULT_GROUP
+        namespace: dev
 
 
 # ${spring.application.name}-${spring.profile.active}.${spring.cloud.nacos.config.file-extension}
